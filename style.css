@@ -4,7 +4,7 @@
 	
 }
 .navbar{
-
+font-size: 20px;
 border: none;
 background-color: black;
 color: #c47894;
@@ -35,7 +35,7 @@ h2{
 	text-align: center;
 }
 #myNavbar ul li a {
-	color: #61122F;
+	color: #5af63e;
 }
 .navbar-brand{
 font-size: 30px;	
